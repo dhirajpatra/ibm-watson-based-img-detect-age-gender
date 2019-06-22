@@ -1,0 +1,23 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  background-color: #f5f7fa;
+}
+.helloInput {
+  width: 300px;
+}
+.visual_response_text_area {
+    width:50%;
+    min-height: 400px;
+}
